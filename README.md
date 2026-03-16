@@ -1,3 +1,6 @@
+> **DEPRECATED**: This example is no longer maintained and is kept only for reference purposes.
+> The current method to deploy FrankenPHP applications on Clever Cloud is to use the [FrankenPHP runtime](https://www.clever.cloud/developers/doc/applications/frankenphp/)
+
 # Serve a Symfony app with FrankenPHP on Clever Cloud
 
 This is a simple demo of how to deploy a Symfony application served by [FrankenPHP](https://frankenphp.dev/) in a Docker container on Clever Cloud. You'll need a [Clever Cloud account](https://console.clever-cloud.com/) and [Clever Tools](https://github.com/CleverCloud/clever-tools).
